@@ -18,7 +18,7 @@ Feel free to visit my [personal site](https://keinermendoza.com) and check out m
 ### What I do
 I work on both frontend and backend development. My favorite backend framework is Django, but I've also worked with other technologies. Here’s a list of technologies I frequently use:
 
- <img src="https://skillicons.dev/icons?i=python,js,html,css,django,react,nextjs,tailwindcss,docker" />
+ <img src="https://skillicons.dev/icons?i=python,js,html,css,django,react,tailwindcss,docker" />
 
 ### My Github
 <table align="left">
