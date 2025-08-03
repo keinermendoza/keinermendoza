@@ -2,10 +2,11 @@
 
  ### About Me
  
-I am a Web Developer from Venezuela with a degree in Economics. I enjoy using command line tools and work primarily on a Linux system, specifically an Ubuntu-based distro. While my main focus is web development, I also have a personal interest in charts and statistics. 
+Web developer with a background in Economics and experience in Python/Django, JavaScript/React, and currently exploring PHP/Laravel. Native Spanish speaker, fluent in Portuguese, and with basic knowledge of English.
 
-I speak Spanish, Portuguese, and some English, which I've improved through programming and connecting with people who share English as a common language.
+Graduated in Economics in Venezuela, I discovered my passion for programming in 2022 and have been self-taught through projects and online courses. I am currently pursuing a degree in Systems Analysis and Development at the university.
 
+I am open to new opportunities and motivated to keep growing as a developer in the tech industry. Write to me at keinermendoza@gmail.com.
 Feel free to visit my [personal site](https://keinermendoza.com) and check out my projects. You can contact me through the following links:
 
 <p align="left">
