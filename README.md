@@ -1,13 +1,20 @@
-# Hi, I'm Keiner
+# Olá, sou Keiner
 
- ### About Me
- 
-Web developer with a background in Economics and experience in Python/Django, JavaScript/React, and currently exploring PHP/Laravel. Native Spanish speaker, fluent in Portuguese, and with basic knowledge of English.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco principal em **desenvolvimento web**, embora também me interessem as áreas de desenvolvimento **desktop** e **mobile**.
 
-Graduated in Economics in Venezuela, I discovered my passion for programming in 2022 and have been self-taught through projects and online courses. I am currently pursuing a degree in Systems Analysis and Development at the university.
+Tenho ganhado experiência com **Python**, **Django**, **JavaScript** e **React** por meio de cursos e da criação de projetos pessoais.
 
-I am open to new opportunities and motivated to keep growing as a developer in the tech industry. Write to me at keinermendoza@gmail.com.
-Feel free to visit my [personal site](https://keinermendoza.com) and check out my projects. You can contact me through the following links:
+Minha língua nativa é o **espanhol**, também falo **português** e tenho conhecimentos básicos de **inglês**.
+
+Sou formado em Economia na Venezuela, mas descobri minha paixão pela programação em 2022, pouco antes de me mudar para o Brasil. Desde então, venho aprendendo de forma autodidata por meio de projetos e cursos online. Atualmente, além da faculdade, estou estudando **Java** por conta própria.
+
+Estou aberto a novas oportunidades e motivado a continuar crescendo como desenvolvedor na indústria de tecnologia.
+
+🌐 Fique à vontade para visitar meu site: <a target="_blank" href="https://keinermendoza.com">https://keinermendoza.com</a>
+
+## Contato
+
+Use os botões abaixo para entrar em contato comigo.
 
 <p align="left">
  
@@ -16,19 +23,18 @@ Feel free to visit my [personal site](https://keinermendoza.com) and check out m
 <a href="mailto:keinermendoza@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@keinermendoza"  /></a>
   </p>
   
-### What I do
-I work on both frontend and backend development. My favorite backend framework is Django, but I've also worked with other technologies. Here’s a list of technologies I frequently use:
+## Meu stack atual
 
  <img src="https://skillicons.dev/icons?i=python,js,html,css,django,react,tailwindcss,docker" />
 
-### My Github
+As linguagens de programação que mais uso
 <table align="left">
 <tr border="none">
 
 
 <td width="40%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=keinermendoza&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=keinermendoza&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=4"/>
 
   </td>
 </tr>
