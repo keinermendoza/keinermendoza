@@ -1,14 +1,14 @@
 # Olá, sou Keiner
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco principal em **desenvolvimento web**, embora também me interessem as áreas de desenvolvimento **desktop** e **mobile**.
+Sou estudante do segundo semestre de **Análise e Desenvolvimento de Sistemas**, com foco principal em **desenvolvimento web**.
 
-Tenho ganhado experiência com **Python**, **Django**, **JavaScript** e **React** por meio de cursos e da criação de projetos pessoais.
+Tenho adquirido experiência com **Python**, **SQL** e **JavaScript** por meio de cursos e da criação de projetos pessoais. Também tenho utilizado, em menor medida, o **PHP**. 
 
-Minha língua nativa é o **espanhol**, também falo **português** e tenho conhecimentos básicos de **inglês**.
+Minha língua nativa é o **espanhol**, mas também falo **português** e tenho conhecimentos básicos de **inglês**.
 
-Sou formado em Economia na Venezuela, mas descobri minha paixão pela programação em 2022, pouco antes de me mudar para o Brasil. Desde então, venho aprendendo de forma autodidata por meio de projetos e cursos online. Atualmente, além da faculdade, estou estudando **Java** por conta própria.
+Sou formado em Economia na Venezuela, mas descobri minha paixão pela programação em 2022, pouco antes de me mudar para o Brasil. Desde então, venho aprendendo de forma autodidata por meio de projetos e cursos online.
 
-Estou aberto a novas oportunidades e motivado a continuar crescendo como desenvolvedor na indústria de tecnologia.
+Atualmente, estou em busca do meu primero emprego como desenvolvedor.
 
 🌐 Fique à vontade para visitar meu site: <a target="_blank" href="https://keinermendoza.com">https://keinermendoza.com</a>
 
@@ -23,9 +23,7 @@ Use os botões abaixo para entrar em contato comigo.
 <a href="mailto:keinermendoza@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@keinermendoza"  /></a>
   </p>
   
-## Meu stack atual
-
- <img src="https://skillicons.dev/icons?i=python,js,html,css,django,react,tailwindcss,docker" />
+## Análise dos repositorios
 
 As linguagens de programação que mais uso
 <table align="left">
