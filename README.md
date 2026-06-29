@@ -1,14 +1,14 @@
 # Olá, sou Keiner
 
-Sou estudante do segundo semestre de **Análise e Desenvolvimento de Sistemas**, com foco principal em **desenvolvimento web**.
+Sou estudante do terceiro semestre de **Análise e Desenvolvimento de Sistemas**, com foco principal em **desenvolvimento web**.
 
-Tenho adquirido experiência com **Python**, **SQL** e **JavaScript** por meio de cursos e da criação de projetos pessoais. Também tenho utilizado, em menor medida, o **PHP**. 
+Tenho experiência com **Python, PHP, SQL e JavaScript**, adquirida por meio de freelancing, projetos acadêmicos e projetos pessoais.
 
-Minha língua nativa é o **espanhol**, mas também falo **português** e tenho conhecimentos básicos de **inglês**.
+Minha língua nativa é o espanhol, mas também falo português e possuo conhecimentos básicos de inglês, suficientes para ler documentação técnica e aprender por meio de materiais totalmente em inglês.
 
-Sou formado em Economia na Venezuela, mas descobri minha paixão pela programação em 2022, pouco antes de me mudar para o Brasil. Desde então, venho aprendendo de forma autodidata por meio de projetos e cursos online.
+Sou formado em Economia na Venezuela, mas descobri minha paixão pela programação em 2022, pouco antes de me mudar para o Brasil.
 
-Atualmente, estou em busca do meu primero emprego como desenvolvedor.
+Atualmente, **estou em busca da minha primeira oportunidade como desenvolvedor**.
 
 🌐 Fique à vontade para visitar meu site: <a target="_blank" href="https://keinermendoza.com">https://keinermendoza.com</a>
 
